@@ -1,5 +1,5 @@
 import os
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'api key'
 
 from gpt_api import generate_gpt_prompt
 from dalle_api import generate_dalle_image
